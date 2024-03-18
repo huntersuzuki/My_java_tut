@@ -1,0 +1,52 @@
+Comments in Programming lang.
+===========================
+comments in any language are unexecutable part of
+code. 
+Any code written inside comment is ignored by compiler or
+interpreter.
+Comments are very important as they specify the 
+description of the code written.
+
+Types of comments 
+=================
+1) Single line comment: two forward slashes.
+    //  comment start here.
+
+    it will comment single line.
+2) multiline comment.
+
+     /*
+        line 1
+        line 2
+        line 3
+
+     */
+
+     This will comment all the lines of code.
+
+     2^-2 =  1     1
+            --- = --- = 0.25
+            2^2    4
+
+3.4E-38 to 3.4E+38 =>  3.4 10^-38 to 3.4 10^38
+
+Casting and Type Conversion
+===========================
+Type Casting
+1) Converion of one datatype into another datatype is called as Type casting.
+2) The conversion in which there is need to mention explicitly the conversion 
+   datatype is called as Type casting.
+
+Type conversion
+===============
+The conversion in which the conversion of one datatype into another datatype 
+happend automatically without specifying the datatype explictly is called as
+Type conversion.
+
+Interview Question 
+==================
+1) What is a difference between Type casting and Type conversion.
+2) Explain Type casting in Java. [example]
+
+
+
