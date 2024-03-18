@@ -159,3 +159,4 @@ floating
 1) float     4 byte 
 2) double    8 byte 
 Default datatype in floating is double.
+Default datatype in whole number is int.
