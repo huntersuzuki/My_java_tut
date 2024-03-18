@@ -1,0 +1,147 @@
+Introduction to Java
+====================
+
+Web Architecture
+================
+1) Client 
+2) Server 
+                            Request
+                     ---------------------->
+           Client                               Server 
+           Browser
+                     <----------------------    [DBMS]
+                           Response
+
+        Front end                              Backend 
+
+        HTML,CSS and JS                        Python,Java,PHP,C#
+
+
+Java is a backend scripting Langauge.
+
+Programming language 
+===================
+The langauge which is used to communicate or to instruct   the machine to get work done is called as
+programming language.
+
+1) Low level language
+   In this langauage instruction to the machine were written in 1's and 0's which is easy for machine
+   to process,but very diffcult for the programmer to program.
+2) Assembly level langauge 
+   In this era certain keywords or pneumonics were added in langauge to instruct the machine.
+   This ease programmer a little bit.
+
+3) Compiled level language - compiler were used 
+   code was written in english which was easy for programmer but it  need to be coverted into 
+   machin level lang. for the machine to understand. [C and C++]
+
+4) High level language
+  Code written in english, but instead of compiler an interpreter is used which converts  high level 
+  langauge into machine level language.
+
+
+Analogy in learning English Language.
+
+Alphabets  ---------->  words---------> sentences (.) --------> paragraph.
+
+
+Programming language 
+
+Alphabets                   variables 
+digits            ------->  constants  --------> Instructions(;)----------> Program.
+special symobols            keywords
+
+
+Alphabets :  A,B,C....Z and a,b,c...z 
+digits    :  0,1,2,3,...9
+special sy:  #,$,@,!,; etc 
+
+
+variables 
+1) Variable are identifiers that are used to store values in program.[values can be input given by user or it can result of any operations]
+2) Variable are temporary memory locations on RAM that are used to store values.
+3) Value in the variable remains till programme  is in running mode, once program finished, then variable 
+   memory  is released  for future use and value is lost.
+
+Constant 
+1) Alphabets/identifiers that are used to store values which never change throughout the program are called as 
+   constant.
+
+keywords
+========= 
+words with reserved or predefined meaning in a language are called as Keywords.
+Some keywords are general which are same in all programming language, but some keywords are defined for
+that particular language.
+e.g if,else,for,while etc.
+
+
+
+Instruction 
+===========
+The command or order given to machine using combination of variable,constant and keywords is called
+as Instruction.
+Instruction in java ends with semicolon (;)
+
+Program 
+======
+A collection of instruction that are executed in a defined sequence is called as Program.
+
+
+In order to create an application in java, there is need of compiler that is going to 
+convert code written in java into machine language.
+
+Requirement
+1) code editor - VScode [eclipse,net beans]
+2) jdk - Java development kit .
+
+History
+======
+1) Java first owned by sun microsystem.
+2) later oracle bought it.
+
+Download JDK and install from the following link
+https://www.oracle.com/java/technologies/downloads/
+
+latest version as per the todays date and time is 21 which is long term support version [LTS]
+
+download installer from the given option as per the ooperating system.
+After download, double click on the installer and continue or press next button to complete the 
+installation process.
+
+Confirming installation of Java 
+===============================
+Open terminal or cmd prompt 
+
+type : javac --version this will give  compiler version as 21 
+
+java --version this will give JRE version 
+
+if version are displyed that is confiramtion of java is being successfully installed on your system.
+
+Set an enviroment system variable path 
+==========================
+If by executing above command on the cmd or terminal if we are getting 
+javac is not recognised as internal or extenal command, this means java is not added in the 
+enviroment system variables.
+
+and there is need to set path in the system environment path.
+
+copy : C://program files/java/jdk21/bin 
+and add this path in system variable path.
+
+start cmd prompt again to reflect the changes and then java will be recognised as internal or 
+external command.
+
+
+jshell
+====== 
+jshell initiate java environment in the terminal or in cmd prompt where we can write 
+instruction in java and execute immediately line by line.
+
+to start jshell in terminal or cmd prompt use following command.
+
+jshell 
+
+
+
+
