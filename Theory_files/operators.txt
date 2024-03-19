@@ -1,0 +1,50 @@
+Types of Operators 
+===================
+1) arithmetic Operators
+2) Assignment Operators 
+3) relational Operators
+4) logical operators.
+
+Arithmetic operator 
++,-,/,*,% 
+
+Assignment operator 
+= is called as assignment operator which is used to assign 
+value from right hand to left hand variable.
+
+x=6 i.e 6 value on right side 6 is being assigned to 
+left hand side variable [left assignment]
+
+x=1
+
+x=x+2 => x=1+2=3
+
+x=x+2 => x+=2 [short hand operator]
+x=x-2 => x-=2
+x=x*2 => x*=2
+x=x/2 => x/=2
+x=x%2 => x%=2
+
+
+relational operator 
+==================
+<,>,<=,>=,==,!=
+
+Result of relational operator is either true or false.
+
+logical Operators 
+=================
+logical and => &&
+logical or  => ||
+logical not => ! 
+
+logical and , or are binary operands.
+Since they work on two condition made up from relational
+operators.
+
+not is called as unary operator as it works on one 
+condition.
+
+
+
+

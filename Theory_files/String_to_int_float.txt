@@ -1,0 +1,18 @@
+Conversion of string into integer.
+==================================
+Integer.parseInt(string_number);
+
+1) what is the difference between print() and println()
+
+Convert string to float 
+
+Float.parseFloat(string_float);
+
+char and String 
+===============
+When there is need to store single character in a variable
+use char datatype to declare it.
+When there is need to store a string which collection of characters
+the use String datatype.
+A character is enclosed in single quote and string is 
+enclosed in double quote.
