@@ -32,21 +32,22 @@ rev=a*1000+c*100+e*10+f*1
  */
 
 import java.util.*;
-class FourDigitSum{
-    public static void main(String args[]){
-        int a,b,c,d,e,f,n,sum,rev;
+
+class FourDigitSum {
+    public static void main(String args[]) {
+        int a, b, c, d, e, f, n, sum, rev;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Four digit number : ");
         n = sc.nextInt();
-        a = n%10;
-        b = n/10;
-        c = b%10;
-        d = b/10;
-        e = d%10;
-        f = d/10;
-        sum = a+c+e+f;
-        rev = a*1000+c*100+e*10+f*1;
-        System.out.println("The Sum of "+n+" is "+sum);
-        System.out.println("The Reverse of "+n+" is "+rev);
+        a = n % 10;
+        b = n / 10;
+        c = b % 10;
+        d = b / 10;
+        e = d % 10;
+        f = d / 10;
+        sum = a + c + e + f;
+        rev = a * 1000 + c * 100 + e * 10 + f * 1;
+        System.out.println("The Sum of " + n + " is " + sum);
+        System.out.println("The Reverse of " + n + " is " + rev);
     }
 }

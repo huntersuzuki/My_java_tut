@@ -1,10 +1,10 @@
-class CharString{
-    public static void main(String args[]){
+class CharString {
+    public static void main(String args[]) {
 
         char c = 'T';
-        System.out.println("The output character is => "+c);
+        System.out.println("The output character is => " + c);
         String s = "Pranay Bhoir";
-        System.out.println("String is => "+s);
+        System.out.println("String is => " + s);
 
     }
 }
