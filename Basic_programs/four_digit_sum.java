@@ -27,6 +27,8 @@ rev=a*1000+c*100+e*10+f*1
    =7*1000+6*100+5*10+3*1
    =7000+600+50+3
    =7653
+
+   Do 3 digit sum and reverse program
  */
 
 import java.util.*;
