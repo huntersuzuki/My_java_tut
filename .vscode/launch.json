@@ -1,189 +1,203 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "GreatestOfTwoTernary",
-            "request": "launch",
-            "mainClass": "GreatestOfTwoTernary",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "ElseIf",
-            "request": "launch",
-            "mainClass": "ElseIf",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "GreatestOfThreeLogical",
-            "request": "launch",
-            "mainClass": "GreatestOfThreeLogical",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Addition",
-            "request": "launch",
-            "mainClass": "Addition",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Arithmatic",
-            "request": "launch",
-            "mainClass": "Arithmatic",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Assignment",
-            "request": "launch",
-            "mainClass": "Assignment",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Casting",
-            "request": "launch",
-            "mainClass": "Casting",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "CharString",
-            "request": "launch",
-            "mainClass": "CharString",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "CircleAreaCircumference",
-            "request": "launch",
-            "mainClass": "CircleAreaCircumference",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Datatype",
-            "request": "launch",
-            "mainClass": "Datatype",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "EvenOdd",
-            "request": "launch",
-            "mainClass": "EvenOdd",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "FourDigitSum",
-            "request": "launch",
-            "mainClass": "FourDigitSum",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "GreatestOfThree",
-            "request": "launch",
-            "mainClass": "GreatestOfThree",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "GreatestOfTwo",
-            "request": "launch",
-            "mainClass": "GreatestOfTwo",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Logical",
-            "request": "launch",
-            "mainClass": "Logical",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "PosNeg",
-            "request": "launch",
-            "mainClass": "PosNeg",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "PrePost",
-            "request": "launch",
-            "mainClass": "PrePost",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Relational",
-            "request": "launch",
-            "mainClass": "Relational",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "Salary",
-            "request": "launch",
-            "mainClass": "Salary",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "SimpleInterest",
-            "request": "launch",
-            "mainClass": "SimpleInterest",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "StringConversion",
-            "request": "launch",
-            "mainClass": "StringConversion",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "StringConversionFloat",
-            "request": "launch",
-            "mainClass": "StringConversionFloat",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "SwapWithThird",
-            "request": "launch",
-            "mainClass": "SwapWithThird",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "SwapWithoutThird",
-            "request": "launch",
-            "mainClass": "SwapWithoutThird",
-            "projectName": "Java course_2a2f9601"
-        },
-        {
-            "type": "java",
-            "name": "welcome",
-            "request": "launch",
-            "mainClass": "welcome",
-            "projectName": "Java course_2a2f9601"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "cost_of_one_item",
+      "request": "launch",
+      "mainClass": "cost_of_one_item",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "cost_of_one_item",
+      "request": "launch",
+      "mainClass": "java_practice_programs.cost_of_one_item",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "GreatestOfTwoTernary",
+      "request": "launch",
+      "mainClass": "GreatestOfTwoTernary",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "ElseIf",
+      "request": "launch",
+      "mainClass": "ElseIf",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "GreatestOfThreeLogical",
+      "request": "launch",
+      "mainClass": "GreatestOfThreeLogical",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Addition",
+      "request": "launch",
+      "mainClass": "Addition",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Arithmatic",
+      "request": "launch",
+      "mainClass": "Arithmatic",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Assignment",
+      "request": "launch",
+      "mainClass": "Assignment",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Casting",
+      "request": "launch",
+      "mainClass": "Casting",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "CharString",
+      "request": "launch",
+      "mainClass": "CharString",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "CircleAreaCircumference",
+      "request": "launch",
+      "mainClass": "CircleAreaCircumference",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Datatype",
+      "request": "launch",
+      "mainClass": "Datatype",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "EvenOdd",
+      "request": "launch",
+      "mainClass": "EvenOdd",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "FourDigitSum",
+      "request": "launch",
+      "mainClass": "FourDigitSum",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "GreatestOfThree",
+      "request": "launch",
+      "mainClass": "GreatestOfThree",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "GreatestOfTwo",
+      "request": "launch",
+      "mainClass": "GreatestOfTwo",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Logical",
+      "request": "launch",
+      "mainClass": "Logical",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "PosNeg",
+      "request": "launch",
+      "mainClass": "PosNeg",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "PrePost",
+      "request": "launch",
+      "mainClass": "PrePost",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Relational",
+      "request": "launch",
+      "mainClass": "Relational",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "Salary",
+      "request": "launch",
+      "mainClass": "Salary",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "SimpleInterest",
+      "request": "launch",
+      "mainClass": "SimpleInterest",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "StringConversion",
+      "request": "launch",
+      "mainClass": "StringConversion",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "StringConversionFloat",
+      "request": "launch",
+      "mainClass": "StringConversionFloat",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "SwapWithThird",
+      "request": "launch",
+      "mainClass": "SwapWithThird",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "SwapWithoutThird",
+      "request": "launch",
+      "mainClass": "SwapWithoutThird",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "welcome",
+      "request": "launch",
+      "mainClass": "welcome",
+      "projectName": "Java course_2a2f9601"
+    }
+  ]
 }
