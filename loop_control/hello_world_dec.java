@@ -1,4 +1,4 @@
-package loop_control;
+
 import java.util.*;
 class HelloWorldDec {
     public static void main(String args[]){
