@@ -1,3 +1,4 @@
-public class summation_of_evennum {
+import java.util.*;
+class summation_of_evennum {
     
 }
