@@ -1,3 +1,4 @@
+
 /*
  * n=4
  * i i<=4 fact=fact*i i++
@@ -25,22 +26,24 @@
  * 120
  * Process getting repeated = multiply and store
  * n=4!
- * import java.util.*;
- * class FactorialNumber {
- * public static void main(String args[]){
- * int fact=1,i=1,n;
- * Scanner sc = new Scanner(System.in);
- * System.out.println("Enter a number to find it's factorial");
- * n = sc.nextInt();
- * while(i<=n){
- * fact=fact*i;
- * i++;
- * System.out.println("i= "+i+" fact= "+fact);
- * }
- * System.out.println(n+"!= "+fact);
- * }
- * }
- * /*
+ * */
+import java.util.*;
+
+class FactorialNumber {
+    public static void main(String args[]) {
+        int fact = 1, i = 1, n;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a number to find it's factorial");
+        n = sc.nextInt();
+        while (i <= n) {
+            fact = fact * i;
+            i++;
+            System.out.println("i= " + i + " fact= " + fact);
+        }
+        System.out.println(n + "!= " + fact);
+    }
+}
+/*
  * n=4
  * i i<=4 fact=fact*i i++
  * 1 1<=4 T fact=1*1=1 2
