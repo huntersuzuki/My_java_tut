@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FactorialForLoop",
+      "request": "launch",
+      "mainClass": "FactorialForLoop",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "ExponentNum",
+      "request": "launch",
+      "mainClass": "ExponentNum",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
       "name": "TableProgLoop",
       "request": "launch",
       "mainClass": "loop_control.TableProgLoop",
