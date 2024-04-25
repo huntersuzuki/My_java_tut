@@ -30,7 +30,7 @@ class DigitCounting {
 }
 /*
  * 0
- * n n!=0 n=n/10 count
+ * n    n!=0    n=n/10      count
  * 567 567!=0 T n=567/10=56 1
  * 56 56!=0 T n=56/10 =5 2
  * 5 5!=0 T n=5/10 =0 3
