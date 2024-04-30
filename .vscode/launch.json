@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumberPattern3",
+      "request": "launch",
+      "mainClass": "NumberPattern3",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
       "name": "OneDpattern",
       "request": "launch",
       "mainClass": "pattern_programs.OneDpattern",
