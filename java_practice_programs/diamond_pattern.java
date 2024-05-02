@@ -16,10 +16,10 @@ class DiamondPattern {
                 System.out.print("* ");
             }
             System.out.println();
-            
+
         }
-        
-        s1 = s+2;
+
+        s1 = s + 2;
         for (l = n - 1; l > 0; l--) {
             for (k = 1; k <= s1; k++) {
                 System.out.print(" ");
@@ -33,11 +33,11 @@ class DiamondPattern {
     }
 }
 /*
-        *
-       * *
-      * * *
-     * * * *
-      * * *
-       * *
-        * 
+ *
+ * *
+ * * *
+ * * * *
+ * * *
+ * *
+ * 
  */
