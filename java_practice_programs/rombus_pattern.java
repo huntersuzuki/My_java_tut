@@ -14,7 +14,7 @@ class RombusPattern {
                 System.out.print("* ");
             }
             System.out.println();
-            s+=2;
+            s++;
         }
     }
 }
