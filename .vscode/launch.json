@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountOddNum",
+      "request": "launch",
+      "mainClass": "CountOddNum",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "CountEvenNum",
+      "request": "launch",
+      "mainClass": "CountEvenNum",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "OddEleSummation",
+      "request": "launch",
+      "mainClass": "OddEleSummation",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
       "name": "ForEachLoop",
       "request": "launch",
       "mainClass": "ForEachLoop",
