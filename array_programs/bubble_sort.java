@@ -29,7 +29,9 @@ class BubbleSort {
         int x[]={45,6,90,13,100,32},i,j,temp;
         for(i=0;i<x.length;i++){
             for(j=0;j<x.length-1;j++){
-                if(x[j]>x[j+1]){
+                if(x[j]>x[j+1])//Accending sorting
+                // (x[j]<x[j+1])//Deccending sorting
+                {
                     temp=x[j];
                     x[j]=x[j+1];
                     x[j+1]=temp;
