@@ -50,7 +50,6 @@ class MatrixMul {
 
              for(i=0;i<r1;i++){
                 for(j=0;j<c1;j++){
-                    // mat3[i][j]=0;
                     for(k=0;k<r1;k++){
                          mat3[i][j]=mat3[i][j]+(mat1[i][k]*mat2[k][j]);
                     }
