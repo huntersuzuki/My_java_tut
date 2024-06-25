@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MethodOverloadingSameArgument",
+      "request": "launch",
+      "mainClass": "MethodOverloadingSameArgument",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
       "name": "MatrixMul",
       "request": "launch",
       "mainClass": "MatrixMul",
