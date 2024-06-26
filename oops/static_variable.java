@@ -11,6 +11,12 @@ class StaticExample {
         count++;
         se.display();
         se1.display();
+        count=10;
+        se.display();
+        se1.display();
+        se.count=100;
+        se.display();
+        se1.display();
 
     }
 }
