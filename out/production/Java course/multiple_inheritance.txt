@@ -1,0 +1,40 @@
+
+/*
+ * What is Multiple inheritance?
+ * The inheritance in which there is multiple base classes and only one derived
+ * class is called as Multiple
+ * inheritance.
+ * 
+ *          B1 B2 B3 ........... Bn Multilple Base classes
+ *           |  |  |             |
+ *           ----------------------
+ *                     |
+ *              D One drived class
+ * 
+ *                      A    B
+ *                      |    |
+ *                  ---------------
+ *                        |
+ *                        C
+ * 
+ * 
+ *                          class A{
+ *                              void getdata()
+ *                          {
+ *                          take value of a;
+ *                          }
+ *                          }
+ *                              | |
+ *                          ---------------
+ *                               |
+ *                               C
+ * 
+ * 
+ *                                      class A{
+ *                                       void getdata()
+ *                                       {
+ *                                       take value of a;
+ *                                       }
+ *                                       }
+ *                          why multiple is not supported?
+ */

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2_d_array.java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basic_programs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/User_input" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/abstraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/array_programs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ascii_character_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/datatypes_java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decesion_control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/encapsulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exception_handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/introduction_java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_practice_programs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/loop_control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pattern_programs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/switch_control" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
