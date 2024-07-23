@@ -134,6 +134,48 @@ class Main {
                 case 5:
                     System.out.println("Delete contact");
                     System.out.println();
+                    System.out.println("Enter Mobile number to be deleted");
+                    mob = sc.next();
+                    try {
+                        FileReader fp = new FileReader("contact.txt");
+                        fp.read(arr);
+                        String str = new String(arr);// character array to string
+                        String a[] = str.split(","); // string to array of string by split().
+                        fp.close();
+                        // System.out.println(a.length);
+                        // System.out.println(a[0]);
+                        for (i = 0; i < a.length - 1; i++) {
+                            // System.out.println(a[i]);
+                            String rec[] = a[i].split(":");
+                            // System.out.println(rec[1]);
+                            if (mob.equals(rec[1])) {
+                                System.out.println("Record Found!!!");
+                                a[i] = "";
+                                System.out.println(a[i]);
+                                sflag = 1;
+                                break;
+                            }
+
+                        }
+                        if (sflag == 0) {
+                            System.out.println("Record not found,to be deleted!!!");
+                        }
+                        else {
+                            String newData = String.join("", a);
+                            try {
+                                FileWriter fpw = new FileWriter("contact.txt");
+                                fpw.write(newData);
+                                fpw.close();
+                                System.out.println("Contact Deleted Successfully");
+                            } catch (Exception e) {
+                                System.out.println("Error " + e);
+                            }
+                        }
+
+                    } catch (Exception e) {
+                        System.out.println("Error:" + e);
+                    }
+
                     break;
                 case 6:
                     System.out.println("Exit :( thanks for using our app");
