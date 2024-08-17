@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringReverse",
+      "request": "launch",
+      "mainClass": "StringReverse",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
       "name": "MainMultipleInheritance",
       "request": "launch",
       "mainClass": "MainMultipleInheritance",
