@@ -10,6 +10,7 @@ class ArrayEleCompare {
                 if (arr[i] == arr[j]) {
 
                     System.out.println(arr[j]);
+
                 }
             }
         }
