@@ -1,7 +1,7 @@
 class ArrayEleCompare {
     public static void main(String args[]) {
 
-        int arr[] = { 1, 2, 3, 4, 5, 1, 2, 6, 3 };
+        int arr[] = { 1, 2, 3, 4, 9, 5, 1, 8, 2, 6, 3, 8, 9 };
 
         for (int i = 0; i <= arr.length; i++) {
 
@@ -9,7 +9,7 @@ class ArrayEleCompare {
 
                 if (arr[i] == arr[j]) {
 
-                    System.out.println(arr[j]);
+                    System.out.println(arr[i]);
 
                 }
             }
