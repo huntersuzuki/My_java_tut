@@ -26,4 +26,4 @@ class LinearSearch {
             System.out.println("Number is Not Found :(");
         }
     }
-}
+}//CODE END
