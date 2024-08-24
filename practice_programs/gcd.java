@@ -16,6 +16,7 @@ import java.util.*;
              }
          }
          int lcm = (num1*num2)/remainder;
+      
          System.out.println("GCD = " + remainder);
          System.out.println("LCM = " + lcm);
      }
