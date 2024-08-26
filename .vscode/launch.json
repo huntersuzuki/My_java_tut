@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SummationCountDigits",
+      "request": "launch",
+      "mainClass": "SummationCountDigits",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
+      "name": "SummationForLoop",
+      "request": "launch",
+      "mainClass": "SummationForLoop",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
       "name": "StringReverse",
       "request": "launch",
       "mainClass": "StringReverse",
