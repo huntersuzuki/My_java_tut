@@ -1,17 +1,17 @@
-class Arithmatic {
+class Arithmatic1 {
     int a,b;
-    Arithmatic(int x, int y){
+    Arithmatic1(int x, int y){
         a = x;
         b = y;
     }
-    void getObject(Arithmatic obj1){
+    void getObject(Arithmatic1 obj1){
         System.out.println("Object received as an argument !!!!!!");
     }
 }
 class MainArithmatic{
     public static void main(String[] args) {
-        Arithmatic a1 = new Arithmatic(10, 20);
-        Arithmatic a = new Arithmatic(100, 200);
+        Arithmatic1 a1 = new Arithmatic1(10, 20);
+        Arithmatic1 a = new Arithmatic1(100, 200);
         a.getObject(a1);
     }
 }
