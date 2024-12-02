@@ -24,6 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/polymorphism" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/switch_control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

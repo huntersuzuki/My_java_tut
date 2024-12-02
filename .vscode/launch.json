@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CollectionArryList",
+      "request": "launch",
+      "mainClass": "collectionFramework.CollectionArryList",
+      "projectName": "Java course_2a2f9601"
+    },
+    {
+      "type": "java",
       "name": "SummationCountDigits",
       "request": "launch",
       "mainClass": "SummationCountDigits",
